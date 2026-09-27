@@ -1,0 +1,3 @@
+# Match the BitTrench repo: LF in the repository and on checkout, so a Windows
+# clone does not rewrite the manifest to CRLF and show it as modified.
+* text=auto eol=lf
