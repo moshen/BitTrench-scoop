@@ -1,12 +1,12 @@
 {
-    "version": "2026.10.4-1",
+    "version": "2026.10.25-1",
     "description": "BitTorrent client with a built-in user-space WireGuard tunnel",
     "homepage": "https://github.com/moshen/BitTrench",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/moshen/BitTrench/releases/download/2026.10.4-1/bittrench-windows-amd64.zip",
-            "hash": "fdce705a45f5eb6714a0056035d8f06197fa61d2a0bfd68aa8299ef3cd40099c"
+            "url": "https://github.com/moshen/BitTrench/releases/download/2026.10.25-1/bittrench-windows-amd64.zip",
+            "hash": "40bd45f8cd03fd81904d43ee85d6e01982eb95d99d3285fa63df8988da39f870"
         }
     },
     "bin": "bittrench.exe",
